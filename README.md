@@ -1,2 +1,3 @@
-# yt-study
-Study Data, Structures, Algorithms and Problem Solving Strategies by watching YouTube videos
+This is an app that provides a curated list of YouTube videos by topic pulled usin the YouTube API
+
+Built using NextJS
